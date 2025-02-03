@@ -10,4 +10,4 @@ The Handwork Exercises (see [HW3_instructions_handwork.html](HW3_instructions_ha
 
 For the Data Analysis Problems, students will submit a rendered html file which **must contain a link to your GitHub repo**. Including the GitHub repo link provides all the support materials needed to reproduce your work, an essential feature of quality scientific work. Please name the html file `Lastname_Firstname_HW3.html`
 
-For the Handwork Exercises, students can submit and html or pdf file. Please name the html file `Lastname_Firstname_HW3_handwork.html` or `Lastname_Firstname_HW3_handwork.html`. This document is expected to be well organized and neat (work must be legible).
+For the Handwork Exercises, students can submit and html or pdf file. Please name the html file `Lastname_Firstname_HW3_handwork.html` or `Lastname_Firstname_HW3_handwork.pdf`. This document is expected to be well organized and neat (work must be legible).
