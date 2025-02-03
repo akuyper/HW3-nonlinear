@@ -2,9 +2,9 @@
 
 In this homework, you will demonstrate your understanding and application of nonlinear and nonparametric regression methods.
 
-**All students** are required to complete the Data Analysis Problems (see [HW3_instructions_data_prob.html](HW3_instructions_data_prob.html))
+**All students** are required to complete the Data Analysis Problems (see `HW3_instructions_data_prob.html`)
 
-The Handwork Exercises (see [HW3_instructions_handwork.html](HW3_instructions_handwork.html)) are **required** for PhD and MS students in the Department of Statistics and Data Science. These exercises are encouraged (but not required) for MS in Applied Statistics and all other students. These students will not be penalized for attempting these question. Nor will they receive extra credit.
+The Handwork Exercises (see `HW3_instructions_handwork.html`) are **required** for PhD and MS students in the Department of Statistics and Data Science. These exercises are encouraged (but not required) for MS in Applied Statistics and all other students. These students will not be penalized for attempting these question. Nor will they receive extra credit.
 
 ## Submission Instructions
 
